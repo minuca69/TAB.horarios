@@ -1,0 +1,47 @@
+table, td{
+    border: solid 1px black;
+    font-size: 30px;
+    position: relative;
+    text-align: center;
+}
+table, th{
+    border: solid 1px black;
+    font-size: 30px;
+    position: relative;
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    position: relative;
+}
+.corroxa{
+    background-color: violet;
+}
+.corciano{
+    background-color: aquamarine;
+}
+.corverde{
+    background-color: chartreuse;
+}
+.corazulforte{
+    background-color: darkcyan;
+}
+.corvermelho{
+    background-color: crimson;
+}
+.corcoral{
+    background-color: coral;
+}
+.corcinza{
+    background-color: gray;
+}
+
+h2{
+    font-size: 30px;
+    top: 25px;
+    position: relative;
+    text-align: center;
+}
+.hover:hover{
+    background-color: darkorchid;
+}
